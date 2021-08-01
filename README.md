@@ -6,6 +6,7 @@ Sabemos que la violencia e incidentes a los ciudadanos se ha vuelto el pan de ca
 
 ### Link al Tiktok
 
+# Tecnologías y recursos de Azure usados
 ![auxiapp GitHub (2)](https://user-images.githubusercontent.com/87114334/127768972-74e3c387-caa8-4ec5-a3e5-147d7f34c888.png)
 
 
