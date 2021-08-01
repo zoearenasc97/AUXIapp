@@ -9,7 +9,7 @@ Sabemos que la violencia e incidentes a los ciudadanos se ha vuelto el pan de ca
 # Tecnologías y recursos de Azure usados
 ![auxiapp GitHub (2)](https://user-images.githubusercontent.com/87114334/127768972-74e3c387-caa8-4ec5-a3e5-147d7f34c888.png)
 
-
+# SLA Compuesto
 ![auxiapp GitHub](https://user-images.githubusercontent.com/87114334/127767180-e8a285e1-cc7b-4053-a02a-ff66de66f37f.png)
 
 
