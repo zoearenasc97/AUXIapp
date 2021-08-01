@@ -1,4 +1,4 @@
-![Summer Hack (4)](https://user-images.githubusercontent.com/9124597/127756851-c8627116-f177-4198-966d-9003016d2060.png) <- (ASI SE AÑADEN IMÁGENES)
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/87114334/127767325-a6c3a675-5188-412e-9740-951ab80b2d54.png)
 
 AUXI APP "Una app al alcance de tu salvación, EN UN BOTÓN"
 
@@ -10,7 +10,18 @@ Sabemos que la violencia e incidentes a los ciudadanos se ha vuelto el pan de ca
 
 ### SLA Compuesto
 
+![auxiapp GitHub](https://user-images.githubusercontent.com/87114334/127767180-e8a285e1-cc7b-4053-a02a-ff66de66f37f.png)
+
 ### TCO 3 años y Precio Total por mes
+
+![4](https://user-images.githubusercontent.com/87114334/127767279-58a4e296-ec39-44c6-9ca6-bb7284b6fd21.png)
+
+![5](https://user-images.githubusercontent.com/87114334/127767283-6aa4ffe1-f387-4229-9086-894b5d9d127a.png)
+
+![6](https://user-images.githubusercontent.com/87114334/127767287-5f62472d-4017-4980-b9df-3040b7c423cc.png)
+
+![7](https://user-images.githubusercontent.com/87114334/127767292-5b6bb8f2-836f-4c36-b45d-c151445157ca.png)
+
 
 ### Tiempo sin disponibilidad a un año
 
