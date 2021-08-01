@@ -23,3 +23,5 @@ https://vm.tiktok.com/ZMd317Swf/
 
 El evento fue increíble, la verdad teníamos mucho miedo de todo esto, y sabemos que a pesar de las circunstancias, podemos aprender más todavía.
 Gracias por el gran apoyo, y dar lo mejor para que podamos lograr perder el miedo, los queremos, atentamente: AUXIteam <3 
+
+![auxiapp GitHub](https://user-images.githubusercontent.com/87091868/127788599-e2bcc2f7-cf3c-4aef-a7c6-613054700f69.png)
