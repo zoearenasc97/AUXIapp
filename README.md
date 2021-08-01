@@ -2,7 +2,7 @@
 
 AUXI APP "Una app al alcance de tu salvación, EN UN BOTÓN"
 
-### Descripción del Proyecto a Entregar (Corta)
+Sabemos que la violencia e incidentes a los ciudadanos se ha vuelto el pan de cada día de los delincuentes, es por ello que desarrollamos AUXI APP, una aplicación encargada de auxiliarte a través de un botón para enviar una alerta a tus contactos y la policia, para que puedan brindarte el apoyo que necesitas basta con presionar un botón. 
 
 ### Link al Tiktok
 
@@ -14,4 +14,5 @@ AUXI APP "Una app al alcance de tu salvación, EN UN BOTÓN"
 
 ### Tiempo sin disponibilidad a un año
 
-### Qué te pareció el evento
+El evento fue increíble, la verdad tenía mucho miedo, y se que a pesar de las circunstancias, puedo aprender más todavía.
+Gracias por el gran apoyo, y dar lo mejor para que podamos lograr el éxito.
