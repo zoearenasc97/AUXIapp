@@ -2,7 +2,7 @@
 
 AUXI APP "Una app al alcance de tu salvación, EN UN BOTÓN"
 
-Sabemos que la violencia e incidentes a los ciudadanos se ha vuelto el pan de cada día de los delincuentes, es por ello que desarrollamos AUXI APP, una aplicación encargada de auxiliarte a través de un botón para enviar una alerta a tus contactos y la policia, para que puedan brindarte el apoyo que necesitas tan solo con presionar un botón. 
+Sabemos que la violencia e incidentes a los ciudadanos se ha vuelto el pan de cada día de los delincuentes, es por ello que desarrollamos AUXI APP, una aplicación encargada de auxiliarte a través de un botón para enviar una alerta a tus contactos y la policia, para que puedan brindarte el apoyo que necesitas tan solo con presionar un botón.  
 
 https://vm.tiktok.com/ZMd317Swf/
 
